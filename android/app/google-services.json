@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030099131065",
+    "project_id": "siha-c7255",
+    "storage_bucket": "siha-c7255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030099131065:android:5160898a752fa4cf829968",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030099131065-gmnintc3tcrlgl20p9l6f9a3bj2mqi3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEn7w5ODYPxoh1MdrpypjSqippdPkaBig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030099131065-gmnintc3tcrlgl20p9l6f9a3bj2mqi3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
